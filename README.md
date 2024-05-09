@@ -1,4 +1,4 @@
-# Бот для фарма Grass
+# Бот для фарма Grass (Перезалив)
 
 1. Воспользуйтесь следующим гайдом для запуска скриптов на Python:
 https://telegra.ph/Zapusk-PO-s-pomoshchyu-Python-i-JavaScript-02-20
